@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="1235" height="650" id="svg2">
+  <defs id="defs6">
+    <g id="star">
+      <use transform="rotate(-108)" id="use10" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(-36)" id="use12" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(36)" id="use14" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(108)" id="use16" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="scale(-1)" id="use18" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+    </g>
+    <g id="row5">
+      <use id="use21" x="-.252" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use23" x="-.126" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use25" x="0" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use27" x=".126" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use29" x=".252" y="0" width="1235" height="650" xlink:href="#star"/>
+    </g>
+    <g id="row6">
+      <use id="use32" x="-.063" y="0" width="1235" height="650" xlink:href="#row5"/>
+      <use id="use34" x=".315" y="0" width="1235" height="650" xlink:href="#star"/>
+    </g>
+    <g id="rowx4">
+      <use id="use37" x="0" y="0" width="1235" height="650" xlink:href="#row6"/>
+      <use id="use39" x="0" y=".054" width="1235" height="650" xlink:href="#row5"/>
+      <use id="use41" x="0" y=".108" width="1235" height="650" xlink:href="#row6"/>
+      <use id="use43" x="0" y=".162" width="1235" height="650" xlink:href="#row5"/>
+    </g>
+    <g id="union">
+      <use id="use46" x="0" y="-.216" width="1235" height="650" xlink:href="#rowx4"/>
+      <use id="use48" x="0" y="0" width="1235" height="650" xlink:href="#rowx4"/>
+      <use id="use50" x="0" y=".216" width="1235" height="650" xlink:href="#row6"/>
+    </g>
+    <g id="g4135">
+      <use id="use4137" x="0" y="-.216" width="1235" height="650" xlink:href="#rowx4"/>
+      <use id="use4139" x="0" y="0" width="1235" height="650" xlink:href="#rowx4"/>
+      <use id="use4141" x="0" y=".216" width="1235" height="650" xlink:href="#row6"/>
+    </g>
+    <g id="g4125">
+      <use id="use4127" x="0" y="0" width="1235" height="650" xlink:href="#row6"/>
+      <use id="use4129" x="0" y=".054" width="1235" height="650" xlink:href="#row5"/>
+      <use id="use4131" x="0" y=".108" width="1235" height="650" xlink:href="#row6"/>
+      <use id="use4133" x="0" y=".162" width="1235" height="650" xlink:href="#row5"/>
+    </g>
+    <g id="g4119">
+      <use id="use4121" x="-.063" y="0" width="1235" height="650" xlink:href="#row5"/>
+      <use id="use4123" x=".315" y="0" width="1235" height="650" xlink:href="#star"/>
+    </g>
+    <g id="g4107">
+      <use id="use4109" x="-.252" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use4111" x="-.126" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use4113" x="0" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use4115" x=".126" y="0" width="1235" height="650" xlink:href="#star"/>
+      <use id="use4117" x=".252" y="0" width="1235" height="650" xlink:href="#star"/>
+    </g>
+    <g id="g4095">
+      <use transform="rotate(-108)" id="use4097" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(-36)" id="use4099" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(36)" id="use4101" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="rotate(108)" id="use4103" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+      <use transform="scale(-1)" id="use4105" x="0" y="0" width="1235" height="650" xlink:href="#point"/>
+    </g>
+    <path transform="scale(.0616)" id="point" d="M-.162 0 0 .5.162 0h-.324z"/>
+    <path id="stripe" d="M0 0h1235v50H0z"/>
+    <path style="fill:#bf0a30" id="rect4143" d="M0 0h1235v50H0z"/>
+    <path transform="scale(.0616)" style="fill:#fff" id="polygon4093" d="M-.162 0 0 .5.162 0h-.324z"/>
+    <clipPath id="border">
+      <path id="rect3875" d="M-15-7.5h30v15h-30z"/>
+    </clipPath>
+    <clipPath id="clipPath4145">
+      <path id="rect4147" d="M-15-7.5h30v15h-30z"/>
+    </clipPath>
+  </defs>
+  <g id="g4273">
+    <g transform="matrix(41.16667 0 0 43.33333 617.5 325)" clip-path="url(#border)" id="g3877">
+      <circle cx="0" cy="0" r="20" style="fill:#00247d" id="circle3879"/>
+      <path d="m-20-10 40 20m-40 0 40-20" style="stroke:#fff;stroke-width:3" id="diags_white"/>
+      <path d="m-20-10 40 20m-40 0 40-20" style="stroke:#cf142b;stroke-width:2" id="diags_red"/>
+      <path d="m0 0 20 10h-3L-3 0m3 0 20-10h3L3 0M0 0l-20 10h-3L-3 0m3 0-20-10h3L3 0" style="fill:#fff;stroke:none" id="eraser_white"/>
+      <path d="M-20 0h40M0-10v20" style="stroke:#fff;stroke-width:5" id="cross_white"/>
+      <path d="M-20 0h40M0-10v20" style="stroke:#cf142b;stroke-width:3" id="cross_red"/>
+    </g>
+    <path d="M0 0v650L1235 0H0z" style="fill:#fff" id="rect53"/>
+    <path d="M0 0v50h1140l95-50H0z" style="fill:#bf0a30" id="use55"/>
+    <path d="M0 100v50h950l95-50H0z" style="fill:#bf0a30" id="use57"/>
+    <path d="M0 200v50h760l95-50H0z" style="fill:#bf0a30" id="use59"/>
+    <path d="M0 300v50h570l95-50H0z" style="fill:#bf0a30" id="use61"/>
+    <path d="M0 400v50h380l95-50H0z" style="fill:#bf0a30" id="use63"/>
+    <path d="M0 500v50h190l95-50H0z" style="fill:#bf0a30" id="use65"/>
+    <path d="M0 600v50l95-50H0z" style="fill:#bf0a30" id="use67"/>
+    <path style="fill:#002868;fill-opacity:1" id="rect69" d="M0 0h494v350H0z"/>
+    <g transform="matrix(650 0 0 650 247 175)" style="fill:#fff" id="use71">
+      <use style="fill:#fff" id="use3783" x="0" y="-.216" width="1" height="1" xlink:href="#rowx4"/>
+      <use style="fill:#fff" id="use3785" x="0" y="0" width="1" height="1" xlink:href="#rowx4"/>
+      <use style="fill:#fff" id="use3787" x="0" y=".216" width="1" height="1" xlink:href="#row6"/>
+    </g>
+  </g>
+</svg>
