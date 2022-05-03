@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/batumidentalclinic/static/css/main.09ae4e8d.css",
-    "main.js": "/batumidentalclinic/static/js/main.4f1cc1f0.js",
+    "main.css": "/batumidentalclinic/static/css/main.472c13a9.css",
+    "main.js": "/batumidentalclinic/static/js/main.ecd60b04.js",
     "static/media/fedor.jpg": "/batumidentalclinic/static/media/fedor.20894d8a8fcfbdc1565a.jpg",
     "static/media/marieta.jpg": "/batumidentalclinic/static/media/marieta.3baf519dbf7654c7791f.jpg",
     "static/media/grigol.jpg": "/batumidentalclinic/static/media/grigol.8916237ff2bd504c3ed5.jpg",
@@ -19,11 +19,11 @@
     "static/media/ge.svg": "/batumidentalclinic/static/media/ge.6828f829927416e53df56de6e11f09c6.svg",
     "index.html": "/batumidentalclinic/index.html",
     "static/media/ru.svg": "/batumidentalclinic/static/media/ru.314b714419834d46c515bcdce55cca82.svg",
-    "main.09ae4e8d.css.map": "/batumidentalclinic/static/css/main.09ae4e8d.css.map",
-    "main.4f1cc1f0.js.map": "/batumidentalclinic/static/js/main.4f1cc1f0.js.map"
+    "main.472c13a9.css.map": "/batumidentalclinic/static/css/main.472c13a9.css.map",
+    "main.ecd60b04.js.map": "/batumidentalclinic/static/js/main.ecd60b04.js.map"
   },
   "entrypoints": [
-    "static/css/main.09ae4e8d.css",
-    "static/js/main.4f1cc1f0.js"
+    "static/css/main.472c13a9.css",
+    "static/js/main.ecd60b04.js"
   ]
 }
