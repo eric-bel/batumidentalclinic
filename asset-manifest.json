@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/batumidentalclinic/static/css/main.103b8517.css",
-    "main.js": "/batumidentalclinic/static/js/main.b31742fb.js",
+    "main.css": "/batumidentalclinic/static/css/main.09ae4e8d.css",
+    "main.js": "/batumidentalclinic/static/js/main.4f1cc1f0.js",
     "static/media/fedor.jpg": "/batumidentalclinic/static/media/fedor.20894d8a8fcfbdc1565a.jpg",
     "static/media/marieta.jpg": "/batumidentalclinic/static/media/marieta.3baf519dbf7654c7791f.jpg",
     "static/media/grigol.jpg": "/batumidentalclinic/static/media/grigol.8916237ff2bd504c3ed5.jpg",
     "static/media/slide22.jpg": "/batumidentalclinic/static/media/slide22.cc0b94c00e34bdb3b50a.jpg",
     "static/media/lela.jpg": "/batumidentalclinic/static/media/lela.bc68368b50aa4f1b13e4.jpg",
     "static/media/jeiran.jpg": "/batumidentalclinic/static/media/jeiran.e8760a58c2254ac005c0.jpg",
+    "static/media/3.jpeg": "/batumidentalclinic/static/media/3.22e428d8eb773672a52c.jpeg",
     "static/media/team.jpg": "/batumidentalclinic/static/media/team.8332f3155790684bc2e6.jpg",
+    "static/media/2.jpeg": "/batumidentalclinic/static/media/2.f6d9768465582149da2c.jpeg",
+    "static/media/4.jpeg": "/batumidentalclinic/static/media/4.4645f163fc255a294016.jpeg",
+    "static/media/1.jpeg": "/batumidentalclinic/static/media/1.b5e1bf503aa998b7cb8b.jpeg",
+    "static/media/6.jpeg": "/batumidentalclinic/static/media/6.6a5a8b5f9ef12339f645.jpeg",
+    "static/media/5.jpeg": "/batumidentalclinic/static/media/5.627fb3171777168604f3.jpeg",
     "static/media/en.svg": "/batumidentalclinic/static/media/en.543f30448f4f9b7cb5536a7be422bd49.svg",
     "static/media/ge.svg": "/batumidentalclinic/static/media/ge.6828f829927416e53df56de6e11f09c6.svg",
     "index.html": "/batumidentalclinic/index.html",
     "static/media/ru.svg": "/batumidentalclinic/static/media/ru.314b714419834d46c515bcdce55cca82.svg",
-    "main.103b8517.css.map": "/batumidentalclinic/static/css/main.103b8517.css.map",
-    "main.b31742fb.js.map": "/batumidentalclinic/static/js/main.b31742fb.js.map"
+    "main.09ae4e8d.css.map": "/batumidentalclinic/static/css/main.09ae4e8d.css.map",
+    "main.4f1cc1f0.js.map": "/batumidentalclinic/static/js/main.4f1cc1f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.103b8517.css",
-    "static/js/main.b31742fb.js"
+    "static/css/main.09ae4e8d.css",
+    "static/js/main.4f1cc1f0.js"
   ]
 }
