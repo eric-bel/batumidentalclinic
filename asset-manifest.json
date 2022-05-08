@@ -1,30 +1,34 @@
 {
   "files": {
-    "main.css": "/batumidentalclinic/static/css/main.9fa5e974.css",
-    "main.js": "/batumidentalclinic/static/js/main.3cd0ed42.js",
+    "main.css": "/batumidentalclinic/static/css/main.fceaa1da.css",
+    "main.js": "/batumidentalclinic/static/js/main.48269a00.js",
+    "static/media/mainVideo.mp4": "/batumidentalclinic/static/media/mainVideo.ecb0cc950649bb1c8b80.mp4",
     "static/media/fedor.jpg": "/batumidentalclinic/static/media/fedor.20894d8a8fcfbdc1565a.jpg",
     "static/media/marieta.jpg": "/batumidentalclinic/static/media/marieta.3baf519dbf7654c7791f.jpg",
     "static/media/grigol.jpg": "/batumidentalclinic/static/media/grigol.8916237ff2bd504c3ed5.jpg",
-    "static/media/slide22.jpg": "/batumidentalclinic/static/media/slide22.cc0b94c00e34bdb3b50a.jpg",
     "static/media/lela.jpg": "/batumidentalclinic/static/media/lela.bc68368b50aa4f1b13e4.jpg",
+    "static/media/mainImg.png": "/batumidentalclinic/static/media/mainImg.293e47e65ad360d514b2.png",
+    "static/media/teamParty.jpg": "/batumidentalclinic/static/media/teamParty.1c63d647c504c0097a2d.jpg",
     "static/media/jeiran.jpg": "/batumidentalclinic/static/media/jeiran.e8760a58c2254ac005c0.jpg",
+    "static/media/kinder.jpg": "/batumidentalclinic/static/media/kinder.33238198b5ec89c1c66b.jpg",
     "static/media/3.jpeg": "/batumidentalclinic/static/media/3.22e428d8eb773672a52c.jpeg",
     "static/media/team.jpg": "/batumidentalclinic/static/media/team.8332f3155790684bc2e6.jpg",
+    "static/media/aboutHeder.jpg": "/batumidentalclinic/static/media/aboutHeder.ef14d4d3e40a31cf84fa.jpg",
     "static/media/2.jpeg": "/batumidentalclinic/static/media/2.b4a1f64f3077aa694e8a.jpeg",
     "static/media/4.jpeg": "/batumidentalclinic/static/media/4.be279af708491070e8b5.jpeg",
     "static/media/1.jpeg": "/batumidentalclinic/static/media/1.f58b2c703258424b7c50.jpeg",
     "static/media/5.jpeg": "/batumidentalclinic/static/media/5.ca0d2d8a41e4b7fe46c4.jpeg",
-    "static/media/ph1.jpg": "/batumidentalclinic/static/media/ph1.1ad084927c946fe55d8a.jpg",
+    "static/media/ph2.jpg": "/batumidentalclinic/static/media/ph2.b36278886fbf34329905.jpg",
     "static/media/6.jpeg": "/batumidentalclinic/static/media/6.fb292f2c78519f71bac0.jpeg",
     "static/media/en.svg": "/batumidentalclinic/static/media/en.543f30448f4f9b7cb5536a7be422bd49.svg",
     "static/media/ge.svg": "/batumidentalclinic/static/media/ge.6828f829927416e53df56de6e11f09c6.svg",
     "index.html": "/batumidentalclinic/index.html",
     "static/media/ru.svg": "/batumidentalclinic/static/media/ru.314b714419834d46c515bcdce55cca82.svg",
-    "main.9fa5e974.css.map": "/batumidentalclinic/static/css/main.9fa5e974.css.map",
-    "main.3cd0ed42.js.map": "/batumidentalclinic/static/js/main.3cd0ed42.js.map"
+    "main.fceaa1da.css.map": "/batumidentalclinic/static/css/main.fceaa1da.css.map",
+    "main.48269a00.js.map": "/batumidentalclinic/static/js/main.48269a00.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fa5e974.css",
-    "static/js/main.3cd0ed42.js"
+    "static/css/main.fceaa1da.css",
+    "static/js/main.48269a00.js"
   ]
 }
