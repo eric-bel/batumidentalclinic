@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/batumidentalclinic/static/css/main.98940aeb.css",
-    "main.js": "/batumidentalclinic/static/js/main.e38a3b2c.js",
+    "main.css": "/batumidentalclinic/static/css/main.a17980c6.css",
+    "main.js": "/batumidentalclinic/static/js/main.4a5df541.js",
     "static/media/mainVideo.mp4": "/batumidentalclinic/static/media/mainVideo.ecb0cc950649bb1c8b80.mp4",
     "static/media/mainImg.png": "/batumidentalclinic/static/media/mainImg.293e47e65ad360d514b2.png",
     "static/media/teamParty.jpg": "/batumidentalclinic/static/media/teamParty.1c63d647c504c0097a2d.jpg",
@@ -15,23 +15,26 @@
     "static/media/prom7.jpg": "/batumidentalclinic/static/media/prom7.ca10e6ea074318d4f056.jpg",
     "static/media/jeiran.jpg": "/batumidentalclinic/static/media/jeiran.25c7781be75788303385.jpg",
     "static/media/3.jpeg": "/batumidentalclinic/static/media/3.22e428d8eb773672a52c.jpeg",
-    "static/media/aboutHeder.jpg": "/batumidentalclinic/static/media/aboutHeder.ef14d4d3e40a31cf84fa.jpg",
     "static/media/7.jpeg": "/batumidentalclinic/static/media/7.b4a1f64f3077aa694e8a.jpeg",
     "static/media/8.jpeg": "/batumidentalclinic/static/media/8.be279af708491070e8b5.jpeg",
-    "static/media/IMPLANTSWISSMONO.png": "/batumidentalclinic/static/media/IMPLANTSWISSMONO.774fa319bb40739b356f.png",
     "static/media/prom11.jpg": "/batumidentalclinic/static/media/prom11.c08520d561ffaccd6ed9.jpg",
     "static/media/prom12.jpg": "/batumidentalclinic/static/media/prom12.8baf191f701440cd11a1.jpg",
     "static/media/2.jpeg": "/batumidentalclinic/static/media/2.4c4e45e4b79265450e88.jpeg",
+    "static/media/neobiotech.jpeg": "/batumidentalclinic/static/media/neobiotech.8949991e002bb7f6809f.jpeg",
     "static/media/4.jpeg": "/batumidentalclinic/static/media/4.d33295ac3d870f74c351.jpeg",
     "static/media/6.jpeg": "/batumidentalclinic/static/media/6.6f235b12993128a76103.jpeg",
     "static/media/prom1.jpg": "/batumidentalclinic/static/media/prom1.d1891c04b806e90a744f.jpg",
     "static/media/1.jpeg": "/batumidentalclinic/static/media/1.f58b2c703258424b7c50.jpeg",
     "static/media/5.jpeg": "/batumidentalclinic/static/media/5.ca0d2d8a41e4b7fe46c4.jpeg",
+    "static/media/sgc.jpeg": "/batumidentalclinic/static/media/sgc.5471b5721c6cf58f26d4.jpeg",
+    "static/media/implantmono.jpeg": "/batumidentalclinic/static/media/implantmono.ea9dcbafbe51bf4d3a33.jpeg",
     "static/media/prom2.jpg": "/batumidentalclinic/static/media/prom2.2be04d855306cecf7da6.jpg",
+    "static/media/implantmis.jpeg": "/batumidentalclinic/static/media/implantmis.574738a28e0b7c98effe.jpeg",
     "static/media/prom10.jpg": "/batumidentalclinic/static/media/prom10.acbeb49a8c278b19f9f0.jpg",
     "static/media/prom4.jpg": "/batumidentalclinic/static/media/prom4.848ba74a3e7765da006e.jpg",
     "static/media/dentalcare.jpg": "/batumidentalclinic/static/media/dentalcare.e6c5771ff8556fde0479.jpg",
     "static/media/prom3.jpg": "/batumidentalclinic/static/media/prom3.65b6178217cc812cb132.jpg",
+    "static/media/logo.png": "/batumidentalclinic/static/media/logo.e9af4d70ffae39ec4f17.png",
     "static/media/prom6.jpg": "/batumidentalclinic/static/media/prom6.c0cf5d2831e47c4b8725.jpg",
     "static/media/10.jpeg": "/batumidentalclinic/static/media/10.fb292f2c78519f71bac0.jpeg",
     "static/media/9.png": "/batumidentalclinic/static/media/9.0a39b9f8e0a10ff8931e.png",
@@ -39,11 +42,11 @@
     "static/media/ge.svg": "/batumidentalclinic/static/media/ge.6828f829927416e53df56de6e11f09c6.svg",
     "index.html": "/batumidentalclinic/index.html",
     "static/media/ru.svg": "/batumidentalclinic/static/media/ru.314b714419834d46c515bcdce55cca82.svg",
-    "main.98940aeb.css.map": "/batumidentalclinic/static/css/main.98940aeb.css.map",
-    "main.e38a3b2c.js.map": "/batumidentalclinic/static/js/main.e38a3b2c.js.map"
+    "main.a17980c6.css.map": "/batumidentalclinic/static/css/main.a17980c6.css.map",
+    "main.4a5df541.js.map": "/batumidentalclinic/static/js/main.4a5df541.js.map"
   },
   "entrypoints": [
-    "static/css/main.98940aeb.css",
-    "static/js/main.e38a3b2c.js"
+    "static/css/main.a17980c6.css",
+    "static/js/main.4a5df541.js"
   ]
 }
